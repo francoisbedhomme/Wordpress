@@ -46,7 +46,6 @@ footer p{
 }
 
 #img1{
-    background-image: url(../img/banniere.jpg) ;
     text-align: center;
     padding: 15rem;
     background-repeat: no-repeat;
@@ -115,7 +114,7 @@ footer p{
 }
 
 #img3{
-    background-image: url(../img/bandeau.jpg) ;
+    
     padding: 20rem;
     background-repeat: no-repeat;
     background-size: cover;

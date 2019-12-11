@@ -6,7 +6,7 @@
   <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-<header class="header">xxx
+<header class="header">
   <img class="header-logo2" src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="">
   <nav>
     <?php 

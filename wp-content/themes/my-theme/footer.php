@@ -1,5 +1,5 @@
 <footer class="footer">
-  <p>xxx&copy; <?php echo __('Tous droits réservés'); ?></p>
+  <p>&copy; <?php echo __('Tous droits réservés'); ?></p>
 </footer>
 <?php wp_footer(); ?>
 </body>
